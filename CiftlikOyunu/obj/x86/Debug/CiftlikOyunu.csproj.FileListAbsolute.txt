@@ -1,0 +1,43 @@
+C:\Users\Burak\Desktop\CiftlikOyunu\CiftlikOyunu\bin\Debug\CiftlikOyunu.exe
+C:\Users\Burak\Desktop\CiftlikOyunu\CiftlikOyunu\bin\Debug\CiftlikOyunu.pdb
+C:\Users\Burak\Desktop\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.Form1.resources
+C:\Users\Burak\Desktop\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.Properties.Resources.resources
+C:\Users\Burak\Desktop\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.csproj.GenerateResource.Cache
+C:\Users\Burak\Desktop\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.exe
+C:\Users\Burak\Desktop\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.pdb
+C:\Users\MERCAN\Desktop\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.exe
+C:\Users\MERCAN\Desktop\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.pdb
+C:\Users\MERCAN\Desktop\CiftlikOyunu\CiftlikOyunu\bin\Debug\CiftlikOyunu.exe
+C:\Users\MERCAN\Desktop\CiftlikOyunu\CiftlikOyunu\bin\Debug\CiftlikOyunu.pdb
+C:\Users\MERCAN\Desktop\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.csprojResolveAssemblyReference.cache
+C:\Users\MERCAN\Desktop\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.Form1.resources
+C:\Users\MERCAN\Desktop\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.Properties.Resources.resources
+C:\Users\MERCAN\Desktop\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.csproj.GenerateResource.Cache
+C:\Users\Burak\Desktop\Orhan Gencebay - Best Of - II\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.exe
+C:\Users\Burak\Desktop\Orhan Gencebay - Best Of - II\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.pdb
+C:\Users\Burak\Desktop\Orhan Gencebay - Best Of - II\CiftlikOyunu\CiftlikOyunu\bin\Debug\CiftlikOyunu.exe
+C:\Users\Burak\Desktop\Orhan Gencebay - Best Of - II\CiftlikOyunu\CiftlikOyunu\bin\Debug\CiftlikOyunu.pdb
+C:\Users\Burak\Desktop\Orhan Gencebay - Best Of - II\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\Orhan Gencebay - Best Of - II\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.Form1.resources
+C:\Users\Burak\Desktop\Orhan Gencebay - Best Of - II\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.Properties.Resources.resources
+C:\Users\Burak\Desktop\Orhan Gencebay - Best Of - II\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.csproj.GenerateResource.Cache
+C:\Users\Burak\Desktop\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.Form2.resources
+C:\Users\Burak\Desktop\projeler\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.exe
+C:\Users\Burak\Desktop\projeler\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.pdb
+C:\Users\Burak\Desktop\projeler\CiftlikOyunu\CiftlikOyunu\bin\Debug\CiftlikOyunu.exe
+C:\Users\Burak\Desktop\projeler\CiftlikOyunu\CiftlikOyunu\bin\Debug\CiftlikOyunu.pdb
+C:\Users\Burak\Desktop\projeler\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\projeler\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.Form1.resources
+C:\Users\Burak\Desktop\projeler\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.Form2.resources
+C:\Users\Burak\Desktop\projeler\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.Properties.Resources.resources
+C:\Users\Burak\Desktop\projeler\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.csproj.GenerateResource.Cache
+D:\projeler\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.exe
+D:\projeler\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.pdb
+D:\projeler\CiftlikOyunu\CiftlikOyunu\bin\Debug\CiftlikOyunu.exe
+D:\projeler\CiftlikOyunu\CiftlikOyunu\bin\Debug\CiftlikOyunu.pdb
+D:\projeler\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.csprojResolveAssemblyReference.cache
+D:\projeler\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.Form1.resources
+D:\projeler\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.Form2.resources
+D:\projeler\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.Properties.Resources.resources
+D:\projeler\CiftlikOyunu\CiftlikOyunu\obj\x86\Debug\CiftlikOyunu.csproj.GenerateResource.Cache
